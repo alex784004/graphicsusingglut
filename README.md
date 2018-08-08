@@ -1,1 +1,1 @@
-# graphicsusingglut
+# graphics using glut
